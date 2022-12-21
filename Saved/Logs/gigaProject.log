@@ -1365,3 +1365,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2022.12.21-07.56.43:421][476]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.008
 [2022.12.21-08.06.43:842][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
 [2022.12.21-08.06.43:843][309]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.008
+[2022.12.21-08.16.44:445][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.12.21-08.16.44:446][221]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.007
